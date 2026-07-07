@@ -45,7 +45,7 @@ For each supported node, preserve:
 - Use local font files when possible. Report missing fonts as a verification risk.
 - Export complex vectors/images from Figma instead of redrawing them manually.
 - Do not substitute approximated CSS for Figma effects unless the transformation is documented.
-- Keep generated output isolated from hand-written project code where possible.
+- Keep generated output isolated from handwritten project code where possible.
 
 ## Responsive Behavior
 

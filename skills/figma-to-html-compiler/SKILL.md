@@ -5,7 +5,7 @@ description: Use when Codex must generate or update a 1:1 HTML/CSS site from a F
 
 # Figma to HTML Compiler
 
-Use this skill to avoid hand-recreated UI. Treat the task as a compiler pipeline: Figma source data -> raw JSON artifact -> normalized IR -> absolute HTML/CSS/assets -> Playwright geometry report.
+Use this skill to avoid hand-recreated UI. Treat the task as a compiler pipeline: Figma source data → raw JSON artifact → normalized IR → absolute HTML/CSS/assets → Playwright geometry report.
 
 ## Hard Rule
 

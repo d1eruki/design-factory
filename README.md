@@ -6,7 +6,7 @@ A tool for applying repository changes from a Figma file without manually guessi
 
 Build a pipeline where the Figma file is the source of truth and the repository is updated from structured data: coordinates, dimensions, styles, text, assets, and stable node identifiers.
 
-This should not be an agent that looks at a design and recreates something "close enough". It should be a compiler: Figma -> IR -> code.
+This should not be an agent that looks at a design and recreates something "close enough". It should be a compiler: Figma → IR → code.
 
 ## Required Design Inputs
 
