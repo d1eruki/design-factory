@@ -1,0 +1,7 @@
+interface:
+  display_name: "Figma to HTML Compiler"
+  short_description: "Exact Figma JSON to HTML workflow"
+  default_prompt: "Use $figma-to-html-compiler to generate a 1:1 absolute-positioned HTML page from Figma JSON and verify DOM geometry."
+
+policy:
+  allow_implicit_invocation: true
